@@ -1,0 +1,23 @@
+li{
+    color: aqua;
+    font-size: 50px;
+}
+
+h1{
+    text-align: center;
+    color: #FF007F;
+    font-size: 50px;
+    background-color: gray;
+    border: 8px solid aqua;
+}
+
+body{
+    background-image: url(https://images7.alphacoders.com/303/303042.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h4{
+    font-size: 60px;
+    color: #eeff00e7;
+}
